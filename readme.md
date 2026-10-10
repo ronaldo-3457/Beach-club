@@ -50,7 +50,6 @@ Tenha o Node.js e o npm instalados no computador.
 
 No terminal, dentro da pasta do projeto, execute:
 
-
 npm install
 
 **3. Executar os testes**
