@@ -67,9 +67,7 @@ Os testes verificam o funcionamento do cadastro, das reservas, do cancelamento e
 - `test/`: contém os testes automatizados do sistema.
 
 ## Resultado dos testes
-
 Na última execução, todos os testes passaram:
-
 - Suítes aprovadas: 3 de 3.
 - Testes aprovados: 10 de 10.
 
